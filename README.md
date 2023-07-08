@@ -1,7 +1,7 @@
 
-#  **<span style="color:green">Mithun Technologies, Marathahalli ,Bengaluru.</span>**
-### **<span style="color:green">Contacts: +91-9980923226, +91-8296242028<br> WebSite : <http://mithuntechnologies.co.in/></span>**
-### **Email: devopstrainingblr@gmail.com, devopstrainingblr@outlook.com**
+#  **<span style="color:green">Arcadmy, Hyderabad.</span>**
+### **<span style="color:green">Contacts: +91-9110377753, +91-9441294304<br> WebSite : <http://arcadmy.com/></span>**
+### **Email: contact@arcadmy.com**
 
 
 
